@@ -1,2 +1,2 @@
 # testRepo
-testing my repositor
+testing my repository
